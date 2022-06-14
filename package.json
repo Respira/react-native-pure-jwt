@@ -1,5 +1,5 @@
 {
-  "name": "react-native-pure-jwt",
+  "name": "@Respira/react-native-pure-jwt",
   "version": "3.0.0",
   "description": "React Native Pure JWT implementation",
   "main": "js/index.js",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zaguiini/react-native-pure-jwt.git"
+    "url": "https://github.com/Respira/react-native-pure-jwt.git"
   },
   "peerDependencies": {
     "react-native": "*"
